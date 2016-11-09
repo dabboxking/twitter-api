@@ -23,4 +23,4 @@ curl http://localhost:8080/users/{username}
 ```bash
 curl http://localhost:8080/users/{username}/tweets
 ```
-<p>NOTE: When access http://localhost:8080 via browser the default twitter username "emmanueljreyme" me of course. Feel free to change it ^_^</p>
+<p>NOTE: When accessing http://localhost:8080 via browser the default twitter username "emmanueljreyme" me of course. Feel free to change it ^_^</p>
