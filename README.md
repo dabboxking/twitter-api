@@ -1,8 +1,11 @@
-# twitter-api with SpringBoot
-<p>Demostrating twitter api usage with Springboot</p>
+# twitter-api with Spring Social
+<p>Demostrating twitter api usage with Spring Social</p>
 
 ## Getting Started
 clone this repo
+
+<p>Get yourself a twitter key and secret. Follow this guide <a href="https://spring.io/guides/gs/register-twitter-app/">here</a></p>
+<p>Add environment variables twitterKey = {your key} and twitterSecret = {your secret}</p>
 
 ```bash
 mvn clean install
