@@ -4,7 +4,7 @@
 ## Getting Started
 clone this repo
 
-<p>Get yourself a twitter key and secret. Follow this guide <a href="https://spring.io/guides/gs/register-twitter-app/">here</a></p>
+<p>Get yourself a twitter appi key and secret. Follow this guide to do so <a href="https://spring.io/guides/gs/register-twitter-app/">here</a></p>
 <p>Add environment variables twitterKey = {your key} and twitterSecret = {your secret}</p>
 
 ```bash
